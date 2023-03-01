@@ -1,5 +1,5 @@
-a = 6
-c = 4
-s = a + c
+val1 = 6
+val2 = 4
+sum = val2 + val1
 
-print(s)
+print(sum)
