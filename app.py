@@ -1,5 +1,5 @@
-val1 = 6
-val2 = 4
-sum = val2 + val1
+v1 = 6
+v2 = 4
+sum = v2 + v1
 
 print(sum)
